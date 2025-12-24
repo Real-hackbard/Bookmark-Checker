@@ -58,7 +58,7 @@ Different browsers implement the bookmarks bar in slightly different ways, with 
 
   * Google Chrome offers the ability to show or hide the bar with a simple keyboard shortcut ```Ctrl+Shift+B``` or through the browser menu (chrome://bookmarks) . It also includes a dedicated bookmark manager for advanced organization and supports integration with various extensions (e.g., "Bookmark Sidebar").
 
-* [Mozilla Firefox](https://de.wikipedia.org/wiki/Mozilla_Firefox)
+* [Mozilla Firefox]([https://de.wikipedia.org/wiki/Mozilla_Firefox](https://en.wikipedia.org/wiki/Firefox))
   * Mozilla Firefox offers a customizable layout, allowing users to move the bookmarks bar or integrate it with other toolbars. It previously supported sending [RSS feeds](https://en.wikipedia.org/wiki/RSS_feeds) directly in the bar through a feature called "Live Bookmarks", and offers some add-ons as an alternative way for saving page-links.
 
 
