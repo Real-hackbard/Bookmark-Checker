@@ -32,6 +32,12 @@ For data portability and interoperability, most modern Web browsers support impo
 
 A "bookmark checker" for Chrome isn't a built-in Chrome feature but rather third-party extensions, like the one from the Chrome Web Store (Bookmarks Checker), that find broken links, duplicates, and help clean up your bookmark library by batch checking URLs for validity, offering options to delete dead links with a click, and often adding features like smart search for your saved pages. These tools work by scanning your bookmarks, marking them as success, timeout, or error, and providing bulk actions to manage them, keeping your Chrome bookmarks organized and useful. 
 
+</br>
+
+![190805](https://github.com/user-attachments/assets/f8861619-c777-46f3-bdf3-963d8019e076)
+
+</br>
+
 # How Bookmark Checkers Work:
 Batch Checking: They scan multiple bookmarks at once to see if the linked pages still exist.
 Status Indicators: Use symbols like green checkmarks (success), red crosses (error), or clocks (timeout) to show link health.
