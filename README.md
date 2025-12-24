@@ -61,7 +61,8 @@ Different browsers implement the bookmarks bar in slightly different ways, with 
 * [Mozilla Firefox](https://en.wikipedia.org/wiki/Firefox)
   * Mozilla Firefox offers a customizable layout, allowing users to move the bookmarks bar or integrate it with other toolbars. It previously supported sending [RSS feeds](https://en.wikipedia.org/wiki/RSS_feeds) directly in the bar through a feature called "Live Bookmarks", and offers some add-ons as an alternative way for saving page-links.
 
-
+* [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
+  * Microsoft Edge introduces a "Collections" feature that allows bookmarks to be grouped with notes and screenshots. It syncs bookmarks across various devices (including Xbox consoles) through a Microsoft account and offers a "Vertical Tabs" option that can be combined with a sidebar.
 
 
 
