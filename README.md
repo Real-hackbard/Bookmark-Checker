@@ -64,7 +64,8 @@ Different browsers implement the bookmarks bar in slightly different ways, with 
 * [Microsoft Edge](https://en.wikipedia.org/wiki/Microsoft_Edge)
   * Microsoft Edge introduces a "Collections" feature that allows bookmarks to be grouped with notes and screenshots. It syncs bookmarks across various devices (including Xbox consoles) through a Microsoft account and offers a "Vertical Tabs" option that can be combined with a sidebar.
 
-
+* [Apple Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
+  * Apple Safari focuses on a more minimalist design with fewer customization options. It features a separate "Reading List" for saving pages for offline reading and uses iCloud syncing to keep bookmarks consistent across [macOS](https://en.wikipedia.org/wiki/MacOS) and [iOS devices](https://en.wikipedia.org/wiki/List_of_iPhone_models).
 
 
 
