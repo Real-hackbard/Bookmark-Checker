@@ -67,7 +67,10 @@ Different browsers implement the bookmarks bar in slightly different ways, with 
 * [Apple Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
   * Apple Safari focuses on a more minimalist design with fewer customization options. It features a separate "Reading List" for saving pages for offline reading and uses iCloud syncing to keep bookmarks consistent across [macOS](https://en.wikipedia.org/wiki/MacOS) and [iOS devices](https://en.wikipedia.org/wiki/List_of_iPhone_models).
 
+# Enhanced Functionality:
+Modern browsers expanded bookmarking with features like: - Nested folders (allowing hierarchical organization). - Search within bookmarks (introduced in Firefox 2.0 and Chrome’s Bookmark Manager). - Extensions and APIs (letting third-party tools enhance bookmark management, such as Delicious and Xmarks).
 
+In the 2000s and 2010s, modern browsers expanded bookmarks with enhanced features like nested folders, searching within bookmarks, and extensions and APIs that allowed third-party tools to enhance bookmark management. With the rise of browser accounts in the 2010s, cloud syncing became standard, allowing bookmarks to be backed up and synchronized across multiple devices (e.g., [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync) in 2010, [Chrome Sync](https://en.wikipedia.org/wiki/ChromeOS) in 2008). Mobile browsers, like Safari on iOS and Chrome on Android, have since adapted this concept with variations like grid-based layouts and slide-to-access panels (e.g., Edge’s mobile sidebar).
 
 
 
