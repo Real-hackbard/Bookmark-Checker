@@ -28,7 +28,7 @@ For data portability and interoperability, most modern Web browsers support impo
 
 ![BookmarkChecker](https://github.com/user-attachments/assets/fb30714c-4104-4ba8-9ff4-fdb26177085b)
 
-<&br>
+</br>
 
 A "bookmark checker" for Chrome isn't a built-in Chrome feature but rather third-party extensions, like the one from the Chrome Web Store (Bookmarks Checker), that find broken links, duplicates, and help clean up your bookmark library by batch checking URLs for validity, offering options to delete dead links with a click, and often adding features like smart search for your saved pages. These tools work by scanning your bookmarks, marking them as success, timeout, or error, and providing bulk actions to manage them, keeping your Chrome bookmarks organized and useful. 
 
