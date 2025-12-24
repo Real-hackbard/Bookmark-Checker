@@ -51,9 +51,15 @@ Install an Extension: Choose one like "Bookmarks Checker".
 Open the Extension: Click its icon, then click "CHECK ALL" (or similar) to start scanning.
 Review & Clean: Use the "DELETE ALL" (for errors/timeouts) or "VIEW/HIDE" options to manage your list. 
 
+# Comparisons across browsers:
+Different browsers implement the bookmarks bar in slightly different ways, with varying functionality and usability.
 
+* [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
 
+  * Google Chrome offers the ability to show or hide the bar with a simple keyboard shortcut ```Ctrl+Shift+B``` or through the browser menu (chrome://bookmarks) . It also includes a dedicated bookmark manager for advanced organization and supports integration with various extensions (e.g., "Bookmark Sidebar").
 
+* [Mozilla Firefox](https://de.wikipedia.org/wiki/Mozilla_Firefox)
+  * Mozilla Firefox offers a customizable layout, allowing users to move the bookmarks bar or integrate it with other toolbars. It previously supported sending [RSS feeds](https://en.wikipedia.org/wiki/RSS_feeds) directly in the bar through a feature called "Live Bookmarks", and offers some add-ons as an alternative way for saving page-links.
 
 
 
